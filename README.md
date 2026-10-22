@@ -35,8 +35,8 @@ sudo apt-get install poppler-utils   # Ubuntu/Debian
 ### Command line
 
 ```bash
-python3 main.py                                      # random image and quote
-python3 main.py --path ./_data/photos/dog/xander_1.jpg --body "Quote text" --author "Name"
+python3 meme.py                                      # random image and quote
+python3 meme.py --path ./_data/photos/dog/xander_1.jpg --body "Quote text" --author "Name"
 ```
 
 - With no arguments, a random dog photo and a random quote from the quote
